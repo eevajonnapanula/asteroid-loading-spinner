@@ -4,6 +4,18 @@
 
 This is a small, simple loading indicator displaying a moving asteroid. It is done with a svg and a little bit of css animation magic.
 
+## Installation
+
+Install the package:
+```
+npm install --save asteroid-loaging-spinner
+```
+
+then, import the package to the desired file:
+```
+import AsteroidLoadingSpinner from 'asteroid-loading-spinner'
+```
+
 ## Props
 
 Name | Optional | Description | Default value |
