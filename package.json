@@ -11,8 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/eevajonnapanula/asteroid-loading-spinner.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "react",
+    "loading-spinner"
+  ],
+  "author": "eevajonnapanula",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/eevajonnapanula/asteroid-loading-spinner/issues"
