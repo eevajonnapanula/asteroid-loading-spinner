@@ -1,7 +1,7 @@
 {
   "name": "asteroid-loading-spinner",
   "version": "1.0.0",
-  "description": "A small asteroid loading spinner",
+  "description": "A simple asteroid loading spinner",
   "main": "dist/index.js",
   "scripts": {
     "build": "rollup -c",
