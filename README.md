@@ -2,7 +2,9 @@
 
 <img src="./assets/asteroid-loading-spinner.gif" alt="" height="200" >
 
-This is a small, simple loading indicator displaying a moving asteroid. It is done with a svg and a little bit of css animation magic.
+This is React component which has a small, simple loading indicator displaying a moving asteroid. It is created with a svg and a little bit of css animation magic. 
+
+This package requires `react` and `react-dom` to be installed in your project. 
 
 ## Installation
 
