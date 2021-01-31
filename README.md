@@ -4,7 +4,7 @@
 
 This is React component which has a small, simple loading indicator displaying a moving asteroid. It is created with a svg and a little bit of css animation magic. 
 
-This package requires `react` and `react-dom` to be installed in your project. 
+In order to use this package, you need to install `react` and `react-dom` to your project. 
 
 ## Installation
 
@@ -22,12 +22,8 @@ import AsteroidLoadingSpinner from 'asteroid-loading-spinner'
 
 Name | Optional | Description | Default value |
 ----|---| --- | --- |
-`circleClassName`  | :heavy_check_mark: | Class name to override the colors of the asteroid (the circles) |"circle" |
-`lineClassName`  | :heavy_check_mark:  | Class name to override the colors for the lines that indicate that the asteroid is moving | "line" |
-
-## About Colors
-
-The colors for the lines and outlines of the circles (`stroke`) use the `currentColor`-value. You can [read more about currentColor from MDN Web Docs][1]. For the color inside the asteroid (`fill`), there is a color used. The default value is `#ea7317`.
+`asteroidColor`  | :heavy_check_mark: | Color of the asteroid |"#ea7317" |
+`lineColor`  | :heavy_check_mark:  | Color of the lines | "currentColor" |
 
 ## Example Usage
 
