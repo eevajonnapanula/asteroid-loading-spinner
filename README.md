@@ -18,12 +18,19 @@ then, import the package to the desired file:
 import AsteroidLoadingSpinner from 'asteroid-loading-spinner'
 ```
 
-## Props
+## Props v2
 
 Name | Optional | Description | Default value |
 ----|---| --- | --- |
 `asteroidColor`  | :heavy_check_mark: | Color of the asteroid |"#ea7317" |
 `lineColor`  | :heavy_check_mark:  | Color of the lines | "currentColor" |
+
+## Props v1 
+
+Name | Optional | Description | Default value |
+----|---| --- | --- |
+`circleClassName`  | :heavy_check_mark: | Class name to override the colors of the asteroid (the circles) |"circle" |
+`lineClassName`  | :heavy_check_mark:  | Class name to override the colors for the lines that indicate that the asteroid is moving | "line" |
 
 ## Example Usage
 
