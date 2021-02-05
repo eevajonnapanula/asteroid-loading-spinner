@@ -1,6 +1,6 @@
 {
   "name": "asteroid-loading-spinner",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A simple asteroid loading spinner",
   "main": "dist/index.js",
   "scripts": {
