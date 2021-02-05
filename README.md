@@ -10,7 +10,7 @@ In order to use this package, you need to install `react` and `react-dom` to you
 
 Install the package:
 ```
-npm install --save asteroid-loaging-spinner
+npm install --save asteroid-loading-spinner
 ```
 
 then, import the package to the desired file:
